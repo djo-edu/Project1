@@ -19,6 +19,7 @@ class Address {
 		this.appart = appart;
 		this.city = city;
 		this.zipCode = zipCode;
+		
 	}
 }
 
